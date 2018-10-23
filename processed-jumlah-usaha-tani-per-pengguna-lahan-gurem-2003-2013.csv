@@ -1,0 +1,137 @@
+kode_provinsi,nama_provinsi,jenis_pengguna,tahun,jumlah
+11,"Prov. Nanggroe Aceh Darussalam","Pengguna Lahan",2003,691454
+11,"Prov. Nanggroe Aceh Darussalam","Pengguna Lahan",2013,637778
+11,"Prov. Nanggroe Aceh Darussalam","Pertanian Gurem",2003,248823
+11,"Prov. Nanggroe Aceh Darussalam","Pertanian Gurem",2013,276729
+12,"Prov. Sumatera Utara","Pengguna Lahan",2003,1451813
+12,"Prov. Sumatera Utara","Pengguna Lahan",2013,1308392
+12,"Prov. Sumatera Utara","Pertanian Gurem",2003,751330
+12,"Prov. Sumatera Utara","Pertanian Gurem",2013,570184
+13,"Prov. Sumatera Barat","Pengguna Lahan",2003,695739
+13,"Prov. Sumatera Barat","Pengguna Lahan",2013,640695
+13,"Prov. Sumatera Barat","Pertanian Gurem",2003,357797
+13,"Prov. Sumatera Barat","Pertanian Gurem",2013,275135
+14,"Prov. Riau","Pengguna Lahan",2003,511395
+14,"Prov. Riau","Pengguna Lahan",2013,568070
+14,"Prov. Riau","Pertanian Gurem",2003,125418
+14,"Prov. Riau","Pertanian Gurem",2013,68568
+15,"Prov. Jambi","Pengguna Lahan",2003,401052
+15,"Prov. Jambi","Pengguna Lahan",2013,426647
+15,"Prov. Jambi","Pertanian Gurem",2003,101836
+15,"Prov. Jambi","Pertanian Gurem",2013,65499
+16,"Prov. Sumatera Selatan","Pengguna Lahan",2003,946858
+16,"Prov. Sumatera Selatan","Pengguna Lahan",2013,949801
+16,"Prov. Sumatera Selatan","Pertanian Gurem",2003,218091
+16,"Prov. Sumatera Selatan","Pertanian Gurem",2013,110932
+17,"Prov. Bengkulu","Pengguna Lahan",2003,275769
+17,"Prov. Bengkulu","Pengguna Lahan",2013,275559
+17,"Prov. Bengkulu","Pertanian Gurem",2003,49147
+17,"Prov. Bengkulu","Pertanian Gurem",2013,35974
+18,"Prov. Lampung","Pengguna Lahan",2003,1272932
+18,"Prov. Lampung","Pengguna Lahan",2013,1218927
+18,"Prov. Lampung","Pertanian Gurem",2003,447126
+18,"Prov. Lampung","Pertanian Gurem",2013,362148
+19,"Prov. Kepulauan Bangka Belitung","Pengguna Lahan",2003,127412
+19,"Prov. Kepulauan Bangka Belitung","Pengguna Lahan",2013,117488
+19,"Prov. Kepulauan Bangka Belitung","Pertanian Gurem",2003,52891
+19,"Prov. Kepulauan Bangka Belitung","Pertanian Gurem",2013,26069
+21,"Prov. Kepulauan Riau","Pengguna Lahan",2003,56086
+21,"Prov. Kepulauan Riau","Pengguna Lahan",2013,50230
+21,"Prov. Kepulauan Riau","Pertanian Gurem",2003,28379
+21,"Prov. Kepulauan Riau","Pertanian Gurem",2013,20545
+31,"Prov. DKI Jakarta","Pengguna Lahan",2003,47262
+31,"Prov. DKI Jakarta","Pengguna Lahan",2013,9515
+31,"Prov. DKI Jakarta","Pertanian Gurem",2003,45428
+31,"Prov. DKI Jakarta","Pertanian Gurem",2013,8611
+32,"Prov. Jawa Barat","Pengguna Lahan",2003,4242003
+32,"Prov. Jawa Barat","Pengguna Lahan",2013,3039716
+32,"Prov. Jawa Barat","Pertanian Gurem",2003,3501867
+32,"Prov. Jawa Barat","Pertanian Gurem",2013,2298193
+33,"Prov. Jawa Tengah","Pengguna Lahan",2003,5697473
+33,"Prov. Jawa Tengah","Pengguna Lahan",2013,4262608
+33,"Prov. Jawa Tengah","Pertanian Gurem",2003,4629877
+33,"Prov. Jawa Tengah","Pertanian Gurem",2013,3312235
+34,"Prov. D I Yogyakarta","Pengguna Lahan",2003,573092
+34,"Prov. D I Yogyakarta","Pengguna Lahan",2013,495401
+34,"Prov. D I Yogyakarta","Pertanian Gurem",2003,479780
+34,"Prov. D I Yogyakarta","Pertanian Gurem",2013,424557
+35,"Prov. Jawa Timur","Pengguna Lahan",2003,6189481
+35,"Prov. Jawa Timur","Pengguna Lahan",2013,4931502
+35,"Prov. Jawa Timur","Pertanian Gurem",2003,4893626
+35,"Prov. Jawa Timur","Pertanian Gurem",2013,3755833
+36,"Prov. Banten","Pengguna Lahan",2003,875287
+36,"Prov. Banten","Pengguna Lahan",2013,584259
+36,"Prov. Banten","Pertanian Gurem",2003,634415
+36,"Prov. Banten","Pertanian Gurem",2013,379888
+51,"Prov. Bali","Pengguna Lahan",2003,485531
+51,"Prov. Bali","Pengguna Lahan",2013,404507
+51,"Prov. Bali","Pertanian Gurem",2003,313111
+51,"Prov. Bali","Pertanian Gurem",2013,257181
+52,"Prov. Nusa Tenggara Barat","Pengguna Lahan",2003,686172
+52,"Prov. Nusa Tenggara Barat","Pengguna Lahan",2013,587617
+52,"Prov. Nusa Tenggara Barat","Pertanian Gurem",2003,446040
+52,"Prov. Nusa Tenggara Barat","Pertanian Gurem",2013,350130
+53,"Prov. Nusa Tenggara Timur","Pengguna Lahan",2003,722039
+53,"Prov. Nusa Tenggara Timur","Pengguna Lahan",2013,770864
+53,"Prov. Nusa Tenggara Timur","Pertanian Gurem",2003,224987
+53,"Prov. Nusa Tenggara Timur","Pertanian Gurem",2013,289917
+61,"Prov. Kalimantan Barat","Pengguna Lahan",2003,594483
+61,"Prov. Kalimantan Barat","Pengguna Lahan",2013,616895
+61,"Prov. Kalimantan Barat","Pertanian Gurem",2003,120575
+61,"Prov. Kalimantan Barat","Pertanian Gurem",2013,81287
+62,"Prov. Kalimantan Tengah","Pengguna Lahan",2003,273806
+62,"Prov. Kalimantan Tengah","Pengguna Lahan",2013,261227
+62,"Prov. Kalimantan Tengah","Pertanian Gurem",2003,45564
+62,"Prov. Kalimantan Tengah","Pertanian Gurem",2013,29083
+63,"Prov. Kalimantan Selatan","Pengguna Lahan",2003,450903
+63,"Prov. Kalimantan Selatan","Pengguna Lahan",2013,420352
+63,"Prov. Kalimantan Selatan","Pertanian Gurem",2003,193773
+63,"Prov. Kalimantan Selatan","Pertanian Gurem",2013,133853
+64,"Prov. Kalimantan Timur","Pengguna Lahan",2003,180515
+64,"Prov. Kalimantan Timur","Pengguna Lahan",2013,165413
+64,"Prov. Kalimantan Timur","Pertanian Gurem",2003,56075
+64,"Prov. Kalimantan Timur","Pertanian Gurem",2013,27326
+71,"Prov. Sulawesi Utara","Pengguna Lahan",2003,300834
+71,"Prov. Sulawesi Utara","Pengguna Lahan",2013,246394
+71,"Prov. Sulawesi Utara","Pertanian Gurem",2003,103154
+71,"Prov. Sulawesi Utara","Pertanian Gurem",2013,72055
+72,"Prov. Sulawesi Tengah","Pengguna Lahan",2003,372636
+72,"Prov. Sulawesi Tengah","Pengguna Lahan",2013,387258
+72,"Prov. Sulawesi Tengah","Pertanian Gurem",2003,69935
+72,"Prov. Sulawesi Tengah","Pertanian Gurem",2013,74073
+73,"Prov. Sulawesi Selatan","Pengguna Lahan",2003,1049449
+73,"Prov. Sulawesi Selatan","Pengguna Lahan",2013,950241
+73,"Prov. Sulawesi Selatan","Pertanian Gurem",2003,408673
+73,"Prov. Sulawesi Selatan","Pertanian Gurem",2013,338108
+74,"Prov. Sulawesi Tenggara","Pengguna Lahan",2003,293555
+74,"Prov. Sulawesi Tenggara","Pengguna Lahan",2013,299926
+74,"Prov. Sulawesi Tenggara","Pertanian Gurem",2003,72188
+74,"Prov. Sulawesi Tenggara","Pertanian Gurem",2013,63809
+75,"Prov. Gorontalo","Pengguna Lahan",2003,118257
+75,"Prov. Gorontalo","Pengguna Lahan",2013,117251
+75,"Prov. Gorontalo","Pertanian Gurem",2003,44791
+75,"Prov. Gorontalo","Pertanian Gurem",2013,40962
+76,"Prov. Sulawesi Barat","Pengguna Lahan",2003,160863
+76,"Prov. Sulawesi Barat","Pengguna Lahan",2013,179814
+76,"Prov. Sulawesi Barat","Pertanian Gurem",2003,43560
+76,"Prov. Sulawesi Barat","Pertanian Gurem",2013,50696
+81,"Prov. Maluku","Pengguna Lahan",2003,178497
+81,"Prov. Maluku","Pengguna Lahan",2013,170169
+81,"Prov. Maluku","Pertanian Gurem",2003,68913
+81,"Prov. Maluku","Pertanian Gurem",2013,78140
+82,"Prov. Maluku Utara","Pengguna Lahan",2003,124480
+82,"Prov. Maluku Utara","Pengguna Lahan",2013,127865
+82,"Prov. Maluku Utara","Pertanian Gurem",2003,19679
+82,"Prov. Maluku Utara","Pertanian Gurem",2013,21857
+91,"Prov. Papua Barat","Pengguna Lahan",2003,71131
+91,"Prov. Papua Barat","Pengguna Lahan",2013,65458
+91,"Prov. Papua Barat","Pertanian Gurem",2003,39344
+91,"Prov. Papua Barat","Pertanian Gurem",2013,37570
+94,"Prov. Papua","Pengguna Lahan",2003,266728
+94,"Prov. Papua","Pengguna Lahan",2013,424058
+94,"Prov. Papua","Pertanian Gurem",2003,169774
+94,"Prov. Papua","Pertanian Gurem",2013,305380
+,"Prov. Kalimantan Utara","Pengguna Lahan",2003,34595
+,"Prov. Kalimantan Utara","Pengguna Lahan",2013,39369
+,"Prov. Kalimantan Utara","Pertanian Gurem",2003,9084
+,"Prov. Kalimantan Utara","Pertanian Gurem",2013,6343
